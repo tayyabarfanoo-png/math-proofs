@@ -1,0 +1,31 @@
+Day 1 — Math Proofs
+
+                                                                       Topic: Sets and Logic
+Problem 1:
+Prove that:
+If A ⊆ B and B ⊆ C, then A ⊆ C.
+Answer:
+Let x ∈ A
+Since A ⊆ B, x ∈ B  
+Since B ⊆ C, x ∈ C  
+Therefore x ∈ C for all x ∈ A 
+Hence A ⊆ C
+Problem 2:
+If A ⊆ B and x ∉ B, prove x ∉ A (contrapositive)
+Answer:
+Assume x ∈ A
+Since A ⊆ B, x ∈ B
+But x ∉ B (given)
+This is a contradiction
+Therefore x ∉ A
+Problem 3:
+If A ⊆ B and B ⊆ A, prove A = B
+Answer:
+Let x ∈ A  
+Since A ⊆ B, x ∈ B  
+Let x ∈ B  
+Since B ⊆ A, x ∈ A  
+Therefore A ⊆ B and B ⊆ A  
+Hence A = B
+Therefore A ⊆ B and B ⊆ A  
+Hence A = B
