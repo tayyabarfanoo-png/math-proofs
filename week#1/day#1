@@ -12,7 +12,7 @@ Hence A ⊆ C
 
 
 ## Problem 2:
-If A ⊆ B and x ∉ B, prove x ∉ A (contrapositive)
+If A ⊆ B and x ∉ B, prove x ∉ A (contradiction)
 Answer:
 Assume x ∈ A
 Since A ⊆ B, x ∈ B
