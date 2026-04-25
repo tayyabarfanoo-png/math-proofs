@@ -1,7 +1,7 @@
-Day 1 — Math Proofs
+# Day 1 — Math Proofs
 
-                                                                       Topic: Sets and Logic
-Problem 1:
+                                                                       #Topic: Sets and Logic
+## Problem 1:
 If A ⊆ B and B ⊆ C, then A ⊆ C.
 Answer:
 Let x ∈ A
@@ -11,7 +11,7 @@ Therefore x ∈ C for all x ∈ A
 Hence A ⊆ C
 
 
-Problem 2:
+## Problem 2:
 If A ⊆ B and x ∉ B, prove x ∉ A (contrapositive)
 Answer:
 Assume x ∈ A
@@ -21,7 +21,7 @@ This is a contradiction
 Therefore x ∉ A
 
 
-Problem 3:
+## Problem 3:
 If A ⊆ B and B ⊆ A, prove A = B
 Answer:
 Let x ∈ A  
